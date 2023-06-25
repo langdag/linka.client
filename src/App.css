@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.navbar-align-items {
+  width: 100%;
+  align-items: center;
+}
+
+.nav-text-color-black {
+  color: black !important;
+}
+
+.nav-text-color-blue {
+  color: blue !important;
+}
