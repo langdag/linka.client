@@ -1,7 +1,7 @@
 import React from 'react';
 import { Routes, Route, Link } from 'react-router-dom'
 import { Container, Navbar } from 'react-bootstrap';
-import { LandingPage } from './Pages/LandingPage';
+import LandingPage from './Pages/LandingPage';
 import { AboutPage } from './Pages/AboutPage';
 import { NotFoundPage } from './Pages/NotFoundPage';
 
